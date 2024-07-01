@@ -84,3 +84,5 @@ Make sure to customize the repository URL, your GitHub username, and any other p
 
 
 # Output
+<img width="958" alt="Screenshot 2024-07-01 105716" src="https://github.com/Jeyagurudevk/login_auth/assets/114578033/aaf32a2e-332d-4d96-bfae-0c46432876ba">
+<img width="958" alt="Screenshot 2024-07-01 105655" src="https://github.com/Jeyagurudevk/login_auth/assets/114578033/037af470-b4a8-4db3-a178-9c0c8dc3f09d">
